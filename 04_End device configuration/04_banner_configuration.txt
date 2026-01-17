@@ -1,0 +1,22 @@
+! =========================================
+! Banner Configuration
+! =========================================
+access the terminal by clicking 
+click on pc connected to the switch via console cable 
+click terminal 
+type commands:
+
+enable
+configure terminal
+
+! Configure a Message of the Day (MOTD) banner
+banner motd #
+******************************************
+* WARNING: Unauthorized access prohibited *
+******************************************
+#
+
+! Exit configuration mode
+end
+
+! ✅ Banner configured successfully

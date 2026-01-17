@@ -1,0 +1,14 @@
+! =========================================
+! Hostname Configuration
+! =========================================
+
+enable
+configure terminal
+
+! Set the hostname for the switch
+hostname Switch1
+
+! Exit configuration mode
+end
+
+! ✅ Hostname set successfully

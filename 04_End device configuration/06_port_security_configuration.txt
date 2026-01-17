@@ -1,0 +1,27 @@
+! =========================================
+! Port Security Configuration
+! =========================================
+
+enable
+configure terminal
+
+! Configure an access port (FastEthernet0/1) with port security
+interface FastEthernet0/1
+ switchport mode access
+ switchport port-security
+ switchport port-security maximum 1
+ switchport port-security violation shutdown
+ switchport port-security mac-address sticky
+ exit
+
+! Repeat for other access ports if needed
+! interface FastEthernet0/2
+! ...
+
+! Exit configuration mode
+end
+
+! Save configuration
+write memory
+
+! ✅ Port security configured successfully
