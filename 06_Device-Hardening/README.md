@@ -13,8 +13,8 @@ A progressive series of hands-on Cisco networking labs built in Packet Tracer, d
 
 | Lab | Title | Topics Covered | Status |
 |-----|-------|---------------|--------|
-| 01 | [STP + Router-on-a-Stick](04_Spanning-Tree-Protocol) | VLANs, Trunking, Inter-VLAN Routing, Spanning Tree, PortFast, BPDU Guard | Complete |
-| 02 | [Device Hardening](06_Device-Hardening/Network-Topology.png) | SSH, Port Security, Unused Port Shutdown, Banners, AAA, CDP Disable | Complete |
+| 01 | [STP + Router-on-a-Stick](denis541/Network-Infrastructure-Engineering/04_Spanning-Tree-Protocol) | VLANs, Trunking, Inter-VLAN Routing, Spanning Tree, PortFast, BPDU Guard | Complete |
+| 02 | [Device Hardening](denis541/Network-Infrastructure-Engineering/06_Device-Hardening/Netrwork-Topology.png) | SSH, Port Security, Unused Port Shutdown, Banners, AAA, CDP Disable | Complete |
 
 ---
 
@@ -63,7 +63,7 @@ Redundant links between SW2, SW3, SW4 for STP demonstration
 - PortFast and BPDU Guard on all access ports
 - Real troubleshooting — trunk misconfiguration diagnosed and fixed using `show interfaces switchport`
 
-[View Lab 01 →](04_Spanning-Tree-Protocol)
+[View Lab 01 →](denis541/Network-Infrastructure-Engineering/04_Spanning-Tree-Protocol)
 
 ---
 
@@ -81,7 +81,7 @@ Redundant links between SW2, SW3, SW4 for STP demonstration
 - Enable secret replacing enable password on all devices
 - SSH remote login verified from PC to switch and router CLI
 
-[View Lab 02 →](06_Device-Hardening/Configs)
+[View Lab 02 →](denis541/Network-Infrastructure-Engineering/06_Device-Hardening/Configs)
 
 ---
 
