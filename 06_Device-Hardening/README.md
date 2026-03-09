@@ -63,7 +63,7 @@ Redundant links between SW2, SW3, SW4 for STP demonstration
 - PortFast and BPDU Guard on all access ports
 - Real troubleshooting — trunk misconfiguration diagnosed and fixed using `show interfaces switchport`
 
-[View Lab 01 →](./lab-01-stp-router-on-a-stick/README.md)
+[View Lab 01 →](04_Spanning-Tree-Protocol)
 
 ---
 
@@ -81,7 +81,7 @@ Redundant links between SW2, SW3, SW4 for STP demonstration
 - Enable secret replacing enable password on all devices
 - SSH remote login verified from PC to switch and router CLI
 
-[View Lab 02 →](./lab-02-device-hardening/README.md)
+[View Lab 02 →](06_Device-Hardening/Configs)
 
 ---
 
