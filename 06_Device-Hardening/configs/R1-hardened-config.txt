@@ -1,0 +1,110 @@
+Building configuration...
+
+Current configuration : 1302 bytes
+!
+version 16.6.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$BK7H2jkAtnNyXmP4SExMX1
+!
+!
+!
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+!
+username ciscoadmin password 7 0822455D0A161718071F0916
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+ip ssh version 2
+no ip domain-lookup
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface GigabitEthernet0/0/0
+ no ip address
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/0/0.10
+ encapsulation dot1Q 10
+ ip address 192.168.10.1 255.255.255.0
+!
+interface GigabitEthernet0/0/0.20
+ encapsulation dot1Q 20
+ ip address 192.168.20.1 255.255.255.0
+!
+interface GigabitEthernet0/0/0.30
+ encapsulation dot1Q 30
+ ip address 192.168.30.1 255.255.255.0
+!
+interface GigabitEthernet0/0/0.40
+ encapsulation dot1Q 40
+ ip address 192.168.40.1 255.255.255.0
+!
+interface GigabitEthernet0/0/1
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface GigabitEthernet0/0/2
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+!
+ip flow-export version 9
+!
+!
+!
+banner motd ^C
+Unauthorized Access Is Forbidden!!!
+^C
+!
+!
+!
+!
+line con 0
+ password 7 0822455D0A161718071F0916
+ login local
+!
+line aux 0
+!
+line vty 0 4
+ login local
+ transport input ssh
+!
+!
+!
+end
