@@ -13,8 +13,8 @@ A progressive series of hands-on Cisco networking labs built in Packet Tracer, d
 
 | Lab | Title | Topics Covered | Status |
 |-----|-------|---------------|--------|
-| 01 | [STP + Router-on-a-Stick](./lab-01-stp-router-on-a-stick/README.md) | VLANs, Trunking, Inter-VLAN Routing, Spanning Tree, PortFast, BPDU Guard | Complete |
-| 02 | [Device Hardening](./lab-02-device-hardening/README.md) | SSH, Port Security, Unused Port Shutdown, Banners, AAA, CDP Disable | Complete |
+| 01 | [STP + Router-on-a-Stick](04_Spanning-Tree-Protocol) | VLANs, Trunking, Inter-VLAN Routing, Spanning Tree, PortFast, BPDU Guard | Complete |
+| 02 | [Device Hardening](06_Device-Hardening/Network-Topology.png) | SSH, Port Security, Unused Port Shutdown, Banners, AAA, CDP Disable | Complete |
 
 ---
 
