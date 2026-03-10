@@ -1,5 +1,4 @@
- # Cisco Packet Tracer Lab — STP + Router-on-a-Stick dnd ddd    ddss
-
+ # Cisco Packet Tracer Lab — STP + Router-on-a-Stick eee
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-8.x-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![STP](https://img.shields.io/badge/STP-Rapid%20PVST%2B-orange?style=for-the-badge)
