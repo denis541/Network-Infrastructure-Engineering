@@ -1,4 +1,9 @@
 # 08 VLSM Subnetting — KenyaTech Ltd
+![Cisco Packet Tracer](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VLANs](https://img.shields.io/badge/Topic-VLANs-6DB33F?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Topic-Routing-6DB33F?style=for-the-badge)
+![VLSM](https://img.shields.io/badge/Topic-VLSM%20Subnetting-6DB33F?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Cert-CCNA%20Aligned-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## Objective
 Design and implement a VLSM (Variable Length Subnet Mask) addressing scheme
