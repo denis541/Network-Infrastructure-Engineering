@@ -1,5 +1,12 @@
 # Lab 03 — Router-on-a-Stick Inter-VLAN Routing
 
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tool](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-blue?style=flat-square&logo=cisco)
+![VLANs](https://img.shields.io/badge/VLANs-10%20%7C%2020-orange?style=flat-square)
+![Routing](https://img.shields.io/badge/Routing-Inter--VLAN-informational?style=flat-square)
+![Protocol](https://img.shields.io/badge/Protocol-802.1Q-yellow?style=flat-square)
+![CCNA](https://img.shields.io/badge/CCNA-Aligned-red?style=flat-square)
+
 ## Objective
 
 Configure inter-VLAN routing using a single router interface divided into subinterfaces (Router-on-a-Stick), allowing hosts in different VLANs to communicate through a Layer 3 device.
