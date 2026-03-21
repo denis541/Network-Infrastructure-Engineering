@@ -1,4 +1,4 @@
-# Lab 05 — Native VLAN Mismatch Troubleshooting
+# Native VLAN Mismatch Troubleshooting
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Tool](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-blue?style=flat-square&logo=cisco)
