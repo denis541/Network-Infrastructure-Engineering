@@ -1,4 +1,4 @@
-# Lab 04 — VTP (VLAN Trunking Protocol)
+# VTP (VLAN Trunking Protocol)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Tool](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-blue?style=flat-square&logo=cisco)
