@@ -4,7 +4,7 @@
 - Configure SSH on routers and switches from scratch
 - Create local user accounts for authenticated remote access
 - Enforce SSH version 2 and disable Telnet on VTY lines
-- Configure a management VLAN (VLAN 10) on a switch for secure access
+- Configure a management VLAN (VLAN 10) on a switch for secure access 
 - Assign IPs to router interfaces and a switch SVI
 - Add a static route to enable end-to-end reachability
 - Verify SSH connectivity from a PC to all network devices
