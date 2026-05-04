@@ -3,7 +3,7 @@
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-8.x-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![STP](https://img.shields.io/badge/STP-Rapid%20PVST%2B-orange?style=for-the-badge)
 ![VLANs](https://img.shields.io/badge/VLANs-10%20%7C%2020%20%7C%2030%20%7C%2040-006400?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-Router--on--a--Stick-0A66C2?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-Router--on--a--Stick-0A66C2?style=for-the-badge) 
 
 
 **Technologies:** VLANs · Trunking · Router-on-a-Stick · PVST+ · Rapid PVST+ · PortFast · BPDU Guard  
