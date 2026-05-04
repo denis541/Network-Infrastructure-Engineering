@@ -5,7 +5,7 @@
 ![Labs](https://img.shields.io/badge/Labs-2%20Complete-brightgreen?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20NetSec-0A66C2?style=for-the-badge)
 
-A progressive series of hands-on Cisco networking labs built in Packet Tracer, documented as part of a blue team cybersecurity portfolio. Each lab builds on the previous one using the same base topology, simulating how a real network is built, verified, and secured incrementally.
+A progressive series of hands-on Cisco networking labs built in Packet Tracer, documented as part of  a blue team cybersecurity portfolio. Each lab builds on the previous one using the same base topology, simulating how a real network is built, verified, and secured incrementally.
 
 ---
 
