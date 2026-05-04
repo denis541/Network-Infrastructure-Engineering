@@ -2,7 +2,7 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![RIPv2](https://img.shields.io/badge/Protocol-RIPv2-orange?style=flat)
-![Serial WAN](https://img.shields.io/badge/Link-Serial%20WAN-grey?style=flat)
+![Serial WAN](https://img.shields.io/badge/Link-Serial%20WAN-grey?style=flat) 
 ![CCNA](https://img.shields.io/badge/CCNA-Study%20Lab-blue?style=flat)
 
 ## Overview
