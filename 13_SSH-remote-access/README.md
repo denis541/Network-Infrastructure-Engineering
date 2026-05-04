@@ -1,4 +1,5 @@
 # 10 — SSH Remote Access Configuration
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white) ![CCNA 200-301](https://img.shields.io/badge/CCNA-200--301-00BCEB?style=flat&logo=cisco&logoColor=white) ![Protocol](https://img.shields.io/badge/Protocol-SSH%20v2-4CAF50?style=flat) ![VLAN](https://img.shields.io/badge/VLAN-Management-8B5CF6?style=flat) ![Routing](https://img.shields.io/badge/Routing-Static-F59E0B?style=flat) ![Status](https://img.shields.io/badge/Status-Complete-22C55E?style=flat)
 
 ## Objectives
 - Configure SSH on routers and switches from scratch
