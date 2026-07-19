@@ -10,7 +10,7 @@
 
 ## Overview
 
-Cisco CCNA lab work covering the full routing and switching stack — subnetting, VLAN segmentation, inter-VLAN routing, Spanning Tree Protocol, static routing, switch port security, and ACL configuration. All labs built and documented in Cisco Packet Tracer with topology diagrams and configuration files included for each exercise.
+This repository covers the full routing and switching stack — subnetting, VLAN segmentation, inter-VLAN routing, Spanning Tree Protocol, static routing, switch port security, and ACL configuration. All labs built and documented in Cisco Packet Tracer with topology diagrams and configuration files included for each exercise.
 
 ---
 
